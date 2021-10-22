@@ -9,5 +9,8 @@ def div(a,b):
         return -1
     return a/b
 
+def mul(a,b):
+    return a*b
+
 print(add(2,3))
 print(sub(4,2))
